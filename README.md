@@ -4,7 +4,8 @@
 
 * **Level One** is an `AssociateProfitSplitter` contract. This will accept Ether into the contract and divide the Ether evenly among the associate level employees. This will allow the Human Resources department to pay employees quickly and efficiently.
 
-![APS1](/Unit20_Solidity_Contracts/Ch.20 Screenshots/APS1.png)
+![APS1](https://github.com/antoniopinkston/Unit20_Solidity_Contracts/blob/main/Ch.20%20Screenshots/APS1.png)
+
 
 (Ch.20 Screenshots/APS2.png)
 
